@@ -1,0 +1,59 @@
+.main-header{
+  background-color:olivedrab;
+  text-align:center;
+  border:black;
+  border:3px solid black;
+  border-radius:8px;
+  margin-left:600px;
+  margin-right:600px;
+  padding:5px 5px 5px 5px;
+
+}
+img{
+  display:block;
+  max-height:300px;
+ 
+}
+.sub-header{
+  background:palevioletred;
+  border:3px solid black;
+  border-radius:10px;
+  height:35px;
+  width:100%;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding:5px 5px 5px;
+
+ 
+ 
+}
+.para-styling{
+  font-family:monospace;
+  text-align:justify;
+  font-size:1.5em;
+  background-color:peachpuff;
+  border:3px solid navy;
+  border-radius:10px;
+  padding:10px 5px 5px 5px;
+}
+.center{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:10px;
+ 
+  
+}
+small{
+  display:block;
+  text-align:center;
+  margin:10px;
+}
+.sub-margin{
+  margin-right:100px;
+}
+.rating{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  height:30px;
+}
